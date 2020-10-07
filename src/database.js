@@ -1,22 +1,22 @@
 module.exports = {
   "1": {
-    "name": "Chunky Monkey",
+    "name": "bim Monkey",
     "birthday": "10-18"
   },
   "2": {
-    "name": "Flerp Derp",
+    "name": "bom Derp",
     "birthday": "01-08"
   },
   "3": {
-    "name": "Buttle McFuddle",
+    "name": "tim McFuddle",
     "birthday": "01-22"
   },
   "4": {
-    "name": "Quiero Pancakes",
+    "name": "tom Pancakes",
     "birthday": "03-04"
   },
   "5": {
-    "name": "Guino the Penguin",
+    "name": "wom the Penguin",
     "birthday": "03-09"
   }
 }
