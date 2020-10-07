@@ -1,4 +1,4 @@
-const HOST = 'https://dv-meta.herokuapp.com'
+const HOST = 'https://dappbinci-metadata.herokuapp.com'
 
 module.exports = {
   HOST
