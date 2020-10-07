@@ -1,22 +1,136 @@
 module.exports = {
   "1": {
-    "name": "bim Monkey",
-    "birthday": "10-18"
+  "description": "DappVinci's No Colored Allowed, Art 1 of 16",
+  "external_url": "https://dappvinci.com/1",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+  "name": "FFF",
+  "Set": "1",
   },
   "2": {
-    "name": "bom Derp",
-    "birthday": "01-08"
+    "description": "DappVinci's No Colored Allowed, Art 2 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "EEE",
+    "Set": "1",
   },
   "3": {
-    "name": "tim McFuddle",
-    "birthday": "01-22"
+    "description": "DappVinci's No Colored Allowed, Art 3 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
   },
   "4": {
-    "name": "tom Pancakes",
-    "birthday": "03-04"
+    "description": "DappVinci's No Colored Allowed, Art 4 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
   },
   "5": {
-    "name": "wom the Penguin",
-    "birthday": "03-09"
+    "description": "DappVinci's No Colored Allowed, Art 5 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "6": {
+  "description": "DappVinci's No Colored Allowed, Art 1 of 16",
+  "external_url": "https://dappvinci.com/1",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+  "name": "FFF",
+  "Set": "1",
+  },
+  "7": {
+    "description": "DappVinci's No Colored Allowed, Art 2 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "EEE",
+    "Set": "1",
+  },
+  "3": {
+    "description": "DappVinci's No Colored Allowed, Art 3 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "4": {
+    "description": "DappVinci's No Colored Allowed, Art 4 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "8": {
+    "description": "DappVinci's No Colored Allowed, Art 5 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "9": {
+  "description": "DappVinci's No Colored Allowed, Art 1 of 16",
+  "external_url": "https://dappvinci.com/1",
+  "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+  "name": "FFF",
+  "Set": "1",
+  },
+  "2": {
+    "description": "DappVinci's No Colored Allowed, Art 2 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "EEE",
+    "Set": "1",
+  },
+  "10": {
+    "description": "DappVinci's No Colored Allowed, Art 3 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "11": {
+    "description": "DappVinci's No Colored Allowed, Art 4 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "12": {
+    "description": "DappVinci's No Colored Allowed, Art 5 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "13": {
+    "description": "DappVinci's No Colored Allowed, Art 5 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "14": {
+    "description": "DappVinci's No Colored Allowed, Art 5 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "15": {
+    "description": "DappVinci's No Colored Allowed, Art 5 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
+  },
+  "16": {
+    "description": "DappVinci's No Colored Allowed, Art 5 of 16",
+    "external_url": "https://dappvinci.com/1",
+    "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
+    "name": "DDD",
+    "Set": "1",
   }
+
 }
