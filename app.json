@@ -1,7 +1,7 @@
 {
-  "name": "Metadata API for NFTs",
-  "description": "Sample metadata API for crypto collectibles",
-  "repository": "https://github.com/ProjectOpenSea/metadata-api-nodejs",
-  "logo": "https://storage.googleapis.com/opensea-rinkeby/0x7dca125b1e805dc88814aed7ccc810f677d3e1db.png",
-  "keywords": ["nft", "crypto", "opensea", "erc721", "erc1155", "node", "express", "static"]
+  "name": "Metadata API for DappVinci NFTs",
+  "description": "Metadata API for DappVinci crypto collectibles",
+  "repository": "https://github.com/dappvinci/metadata-api-nodejs",
+  "logo": "https://w2bbogzhkknmgn7sl5jk2orggtggcasq3ebighqm2vdkiaduxyqq.arweave.net/toIXGydSmsM38l9SrTomNMxhAlDZAoMeDNVGpAB0viE",
+  "keywords": ["nft", "crypto", "dappvinci", "erc721", "erc1155", "node", "express", "static"]
 }
